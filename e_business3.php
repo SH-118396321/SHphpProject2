@@ -32,7 +32,7 @@
          <div class="txt">
          <div class="form">
              <form name="E-Receipt">
-                 <a href="http://localhost:8000/Home.html" style="background-color: #eea236; font-size:20px">Home</a>
+                 <a href="http://localhost:8000/index.php" style="background-color: #eea236; font-size:20px">Home</a>
                  <h1 style="font-size:50px"><b>E-Receipt</b></h1>
              <hr>
              <center>
@@ -58,7 +58,7 @@ echo "The total value is : £".$totalValue2.".";
 ?>
                  <br><br>
                  
-                 <a href="http://localhost:8000/Home.html" style="background-color: #4cae4c; font-size:30px; border-bottom-style: solid"><b>Finish</b></a>              
+                 <a href="http://localhost:8000/index.php" style="background-color: #4cae4c; font-size:30px; border-bottom-style: solid"><b>Finish</b></a>              
              
              </center>
  </div>
