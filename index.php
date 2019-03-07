@@ -10,8 +10,20 @@ and open the template in the editor.
         <title>New Project</title>
     </head>
     <body>
+        
+        
         <?php
+        
+
+        
         echo "hello world";
+        
+        
+        
         ?>
+        
+      
+
+        
     </body>
 </html>
