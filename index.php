@@ -67,8 +67,11 @@
     </head>
     
     <body>
-        <h1  style="background-color: #a6e1ec " ><b><u>Horgan Consultancy Services Ltd.</u></b></h1>
+        <h1  style="background-color: #a6e1ec " ><b><u>118396321 - Horgan Consultancy Services Ltd.</u></b></h1>
+        
         <hr>
+        <a href="https://github.com/SH-118396321/SHphpProject2" style="text-align: center; color: whitesmoke">Github</a>
+        <a href="https://dashboard.heroku.com/apps/phpproject2/deploy/github" style="text-align: center; color: whitesmoke">Heroku</a>
         <br>
         <ul>
             <li><a href="http://localhost:8000/jackson/index.html"><b>CV</b></a></li>
