@@ -74,10 +74,10 @@
         <a href="https://dashboard.heroku.com/apps/phpproject2/deploy/github" style="text-align: center; color: whitesmoke">Heroku</a>
         <br>
         <ul>
-            <li><a href="http://localhost:8000/jackson/index.html"><b>CV</b></a></li>
-            <li><a href="http://localhost:8000/tiltedpage_scroll_demo.html"><b>Interests</b></a></li>
-            <li><a href="http://localhost:8000/strategicCOnsultingServices.html"><b>Consulting Services</b></a></li>
-            <li><a href="http://localhost:8000/Ebus1.php"><b>Ebusiness</b></a></li>
+            <li><a href="jackson/index.html"><b>CV</b></a></li>
+            <li><a href="tiltedpage_scroll_demo.html"><b>Interests</b></a></li>
+            <li><a href="strategicCOnsultingServices.html"><b>Consulting Services</b></a></li>
+            <li><a href="Ebus1.php"><b>Ebusiness</b></a></li>
         </ul>
             
             <img  src="Markets_AI.png" alt=""/>

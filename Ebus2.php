@@ -84,7 +84,7 @@ body{
         
         <div class ="form">
             <form Name="details" method="post" action="e_business3.php">
-                <a href="http://localhost:8000/index.php" style="background-color: #eea236; font-size:20px">Home</a>
+                <a href="index.php" style="background-color: #eea236; font-size:20px">Home</a>
                 <h1 style="text-align: center">Personal Details</h1>
                 <hr/>
                 

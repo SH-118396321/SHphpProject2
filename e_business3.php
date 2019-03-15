@@ -32,7 +32,7 @@
          <div class="txt">
          <div class="form">
              <form name="E-Receipt">
-                 <a href="http://localhost:8000/index.php" style="background-color: #eea236; font-size:20px">Home</a>
+                 <a href="index.php" style="background-color: #eea236; font-size:20px">Home</a>
                  <h1 style="font-size:50px"><b>E-Receipt</b></h1>
              <hr>
              <center>

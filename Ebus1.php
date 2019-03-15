@@ -39,7 +39,7 @@ $_SESSION['txtTotal'] = $totalValue;
             
         <div class="form">
             <form name="intCalc" method="post" action="Ebus2.php">
-                <a href="http://localhost:8000/index.php" style="background-color: #eea236; font-size:20px">Home</a>
+                <a href="index.php" style="background-color: #eea236; font-size:20px">Home</a>
         <h1>Consulting Services Calculator</h1>    
                 <hr/>       
         <center>
